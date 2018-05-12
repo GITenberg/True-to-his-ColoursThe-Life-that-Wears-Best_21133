@@ -1,0 +1,33 @@
+_repo: True-to-his-ColoursThe-Life-that-Wears-Best_21133
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Helm, D. A.
+    gutenberg_agent_id: '9753'
+    url: http://www.gutenberg.org/2009/agents/9753
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Wilson, Theodore P.
+    alias: Wilson, T. P.
+    gutenberg_agent_id: '9752'
+    url: http://www.gutenberg.org/2009/agents/9752
+description: ''
+gutenberg_issued: '2007-04-18'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '21133'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PR'
+- !lcsh 'Christian life -- Fiction'
+- !lcsh 'Temperance -- Fiction'
+title: 'True to his Colours
+
+  The Life that Wears Best'
+url: http://www.gutenberg.org/ebooks/21133
